@@ -97,7 +97,7 @@ function App() {
 
   return (
     <div>
-      <center style={{ backgroundColor: "rgba(255, 255, 255, 0.8)", margin: "0px", height: "40px",padding-top:7px}}>
+      <center style={{ backgroundColor: "rgba(255, 255, 255, 0.8)", margin: "0px", height: "40px",padding-top:10px}}>
         <h2>🌾 Crop Yield Predictor</h2>
       </center>
       <div className="predictor-container">
